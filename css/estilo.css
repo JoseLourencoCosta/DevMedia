@@ -1,0 +1,168 @@
+/*estilo global*/
+
+body {
+    margin:0 ;
+    font-family: 'Tahoma', 'sans-serif';
+}
+
+div {
+    padding-top: 30px;
+    padding-bottom: 30px;
+    text-align:center
+}
+
+p {
+    font-size: 18px;
+    line-height: 28px;
+    margin: 10px auto;
+    width: 980px;
+    text-align: justify;
+}
+
+span {
+    font-weight: bold;
+}
+
+.subtitulo-fundo-azul {
+    color: #ffffff;
+    font-size: 28px;
+    line-height: 42px;
+}
+
+.texto-azul {
+    color: #1d80c1;
+}
+
+.texto-amarelo {
+    color: #fff81b;
+}
+
+/*estilo seção um*/
+
+.secao-um {
+    background-color: #afddfb;
+}
+
+.imagem-logo {
+    width: 150px;
+}
+
+.paragrafo-secao-um {
+    margin-top: 15px;
+    margin-bottom: 25px;
+    text-align: center;
+}
+
+.paragrafo-secao-um a {
+    font-size: 18px;
+    color: #1d1d1d;
+    border-bottom: 2px solid #1d1d1d;
+    text-decoration: none;
+    margin: 0 10px;
+}
+
+/*estilo seção dois*/
+
+.secao-dois {
+    margin-top: 50px;
+    padding-top: 0;
+}
+
+/*estilo seção tres*/
+
+.secao-tres h1 {
+    color: #1d1d1d;
+    margin-bottom: 5px;
+}
+
+.secao-tres h2 {
+    color: #1c81c0;
+    margin-top: 0;
+    font-weight: normal;
+}
+
+.secao-tres .imagem-contrato {
+    width: 450px;
+}
+
+/*estilo seção quatro*/
+
+.secao-quatro {
+    background-color: #1d80c1;
+}
+
+.secao-quatro .paragrafo-secao-quatro {
+    color: #ffffff;
+    line-height: 42px;
+    font-size: 22px;
+    text-align: center;
+    width: 700px;
+}
+
+.secao-quatro .lista-secao-quatro {
+    margin: 40px auto;
+    width: 135px;
+    color: #ffffff;
+    line-height: 42px;
+    text-align: left;
+    font-size: 22px;
+}
+
+/*estilo seção cinco*/
+
+.secao-cinco .subtitulo-secao-cinco {
+    font-size: 28px;
+    line-height: 42px;
+}
+
+.secao-cinco .texto-azul {
+    color: #1d80c1;
+}
+
+.secao-cinco h2 {
+    color: #1c81c0;
+    margin-top: 0;
+    font-weight: normal;
+}
+
+.secao-cinco .imagem-corretor {
+    width: 450px;
+}
+
+/*estilo seção seis*/
+
+.secao-seis {
+    background-color: #1d80c1;
+}
+
+iframe {
+    width: 700px;
+    height: 350px;
+} 
+
+.secao-seis .paragrafo-secao-seis {
+    background-color: #1d1d1d;
+    color: #ffffff;
+    padding: 15px;
+    margin: 30px auto;
+}
+
+.secao-seis .lista-secao-seis {
+    margin: 40px auto;
+    width: 210px;
+    list-style-type: none;
+}
+
+.secao-seis .item-lista-seis {
+    margin-top: 15px;
+    text-align: center;
+    font-size: 18px;
+}
+
+.secao-seis .contato-secao-seis {
+    background-color: #ffffff;
+    color: #1d80c1;
+    padding: 2px 5px;
+    border-radius: 5px;
+    
+}
